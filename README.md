@@ -1,0 +1,2 @@
+# FindCarOnVideoBySVM
+使用SVM和颜色直方图，像素特征已经hog特征在视频中找出汽车
